@@ -53,8 +53,8 @@ Claude Pro 账号的风控级别显著低于 Max，通过手机端订阅 Pro 通
 
 ### 2. **虚拟信用卡**
 
-- **适合谁：**技术上不怵、愿意自己一步搞定、未来还想订阅Claude / Netflix / Spotify 等其他海外服务的人。
-- **核心原理：**在虚拟卡平台开一张美国虚拟Visa/Mastercard，充值USDT后挂美区IP在Claude、Netflix等平台的官网直接绑卡支付。
+- **适合谁：** 技术上不怵、愿意自己一步搞定、未来还想订阅Claude / Netflix / Spotify 等其他海外服务的人。
+- **核心原理：** 在虚拟卡平台开一张美国虚拟Visa/Mastercard，充值USDT后挂美区IP在Claude、Netflix等平台的官网直接绑卡支付。
 
 优点是自己掌握支付权、多个平台通用；缺点是需要购买USDT，并且开卡和每次充值都有手续费，钱包比前两个渠道高亮。
 
