@@ -1,6 +1,6 @@
 # Claude 多账号订阅与管理方案
 
-> 所有claude PC端相关的行为建议全程在虚拟机环境中操作，具体的网络环境搭建参考：[Claude 稳定访问配置指南](https://github.com/0xVoidw/claude-stable-access-guide)
+> 所有claude PC端相关的行为建议全程在虚拟机环境中操作，具体的网络环境搭建参考：[Claude 稳定访问配置指南](https://github.com/0xVoidw/claude-stable-access-guide)。部署提示词另见 [VPS 四协议部署提示词](https://github.com/0xVoidw/vps-sing-box-deployment-prompt) 和 [Hyper-V 独立代理网关部署提示词](https://github.com/0xVoidw/hyper-v-proxy-gateway-deployment-prompt)（独立网关是另一种网络架构）。
 
 ## 1. 注册邮箱选择
 
